@@ -24,5 +24,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: When I made my first code I was 10 years old.
 
 
-
-[!Pyth](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
