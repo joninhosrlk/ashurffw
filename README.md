@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-- 🔭 I’m currently working on an app for auto-selling
+- 🔭 I’m currently working on app for auto-selling
 - 🌱 I’m currently learning python
 - 💬 Ask me about Telegram Bots 
 - 📫 How to reach me: jxwrysxfn@gmail.com
