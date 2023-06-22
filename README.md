@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on an app for auto-selling
-- 🌱 I’m currently learning python and js
+- 🌱 I’m currently learning python
 - 💬 Ask me about Telegram Bots 
 - 📫 How to reach me: jxwrysxfn@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: When I made my first code I was 10 years old.
+[![Pythones](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
